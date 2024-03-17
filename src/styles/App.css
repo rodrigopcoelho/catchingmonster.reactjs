@@ -1,0 +1,18 @@
+.center {
+  border: 5px solid;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 10px;
+  background-image: url("../../src/sprites/pallet.jpeg");
+  width: 320px;
+  height:287px;
+}
+
+.player {
+  position: absolute;
+  height: 10px;
+  width: 10px;
+  background-color: blue;
+}
